@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://jeetkasundra.com](https://jeetkasundra.com)
+- 👨‍💻 All of my projects are available at [https://inlancer.in/](https://inlancer.in/)
 
 - 💬 Ask me about **Gaming**
 
