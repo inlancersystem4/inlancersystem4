@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://inlancer.in/](https://inlancer.in/)
+- 👨‍💻 All of my projects are available at [https://inlancer.in](https://inlancer.in)
 
 - 💬 Ask me about **Gaming**
 
-- 📫 How to reach me **work@jeetkasundra.com**
+- 📫 How to reach me **work@inlancer.in**
 
 - ⚡ Fun fact **Esports**
 
