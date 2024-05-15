@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Gaming**
 
-- 📫 How to reach me **info@jeetkasundra.com**
+- 📫 How to reach me **info@inlancer.in**
 
 - ⚡ Fun fact **Esports**
 
