@@ -25,6 +25,4 @@
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=inlancersystem4&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=inlancersystem4&label=Random%20objects&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
