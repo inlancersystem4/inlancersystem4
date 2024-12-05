@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Projects<br>👯 I’m looking to collaborate on : https://inlancer.in/<br>🤝 I’m looking for help with<br>🌱 I’m currently learning: Next js<br>💬 Ask me about: Gaming<br>⚡ Fun fact: Esports
+🔭 I’m currently working on : Projects<br>👯 I’m looking to collaborate on : https://inlancer.in/<br>🤝 I’m looking for help with<br>🌱 I’m currently learning: RUST<br>💬 Ask me about: Gaming<br>⚡ Fun fact: Esports
 
 
 ## 🌐 Socials:
