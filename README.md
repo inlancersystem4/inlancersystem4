@@ -10,4 +10,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=inlancersystem4&label=Random%20objects&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inlancersystem4&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasundraJeet&layout=compact)
